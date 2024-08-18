@@ -1,0 +1,2 @@
+# practica
+implementando Git
